@@ -27,9 +27,11 @@ This approach reduces the risk of unauthorized access associated with single-fac
 * 4×4 Matrix Keypad
 * RTC (on-chip)
 * Switch
-* LED/Bulb/DC Motor with L293D circuit
+  
+Block Diagram-
 
-The above hardware components are specified in the project documentation.
+<img width="1536" height="1024" alt="Major_proj_blockdia_vector" src="https://github.com/user-attachments/assets/18c9909a-69d1-4c7c-ba1c-4d6f81920e61" />
+
 
 ## 💻 Software Requirements
 
@@ -196,6 +198,9 @@ The project documentation also describes separate source/header files for LCD, d
 | GSM Module         | M660A             |
 | IDE/Compiler       | Keil C            |
 | Programming Tool   | Flash Magic       |
+
+Hardware Implementation
+<img width="1600" height="1200" alt="realimplementation_major project" src="https://github.com/user-attachments/assets/2c21712e-24f2-449a-a751-2e5d13edb918" />
 
 ## 🚀 Applications
 
